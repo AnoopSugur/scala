@@ -1,0 +1,7 @@
+package HigherOrderFun
+
+object AnonymousFunc {
+
+
+  
+}
